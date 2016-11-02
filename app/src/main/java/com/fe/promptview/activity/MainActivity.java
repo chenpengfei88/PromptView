@@ -37,6 +37,20 @@ public class MainActivity extends AppCompatActivity {
         messageList.add(new Message("你说怎么站"));
         messageList.add(new Message("你这么站！ ", 2));
         messageList.add(new Message("我干吗这么站"));
+        messageList.add(new Message("（不耐烦）你就这么站！", 2));
+        messageList.add(new Message("（陈侧站，脸偏向观众。朱把他的脸拨正，陈    再偏。如此反复三次）哎我这——我这么站着怎么 能成啊！"));
+        messageList.add(new Message("怎么不成啊", 2));
+        messageList.add(new Message("观众只能看到我侧脸啊"));
+        messageList.add(new Message("这就对了，你是配角！", 2));
+        messageList.add(new Message("（无言以对）哎配角就只配露-半张脸啊！哪有    这个道理嘛！"));
+        messageList.add(new Message("哎呀。你可以把这半张脸的戏挪到那半脸上去  嘛。", 2));
+        messageList.add(new Message("（指着另外半边脸）那我这半张脸怎么办？"));
+        messageList.add(new Message("不要了！", 2));
+        messageList.add(new Message("都放这面儿。"));
+        messageList.add(new Message("恩。", 2));
+        messageList.add(new Message("这可就是二皮脸了。"));
+        messageList.add(new Message("你演的就是二皮脸嘛！不能抢戏！对不对。你这个地方要始终保持我的正面给观众。。", 2));
+        messageList.add(new Message("好！行！我就保证你的正面给观众！。"));
         return messageList;
     }
 }

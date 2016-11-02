@@ -26,7 +26,7 @@ public class PromptViewHelper {
 
     public void setPromptViewManager(PromptViewManager promptViewManager) {
         this.promptViewManager = promptViewManager;
-        promptViewManager.setOnItemClickListener(new OnItemClickListener() {
+        this.promptViewManager.setOnItemClickListener(new OnItemClickListener() {
             @Override
             public void onItemClick(int position) {
                 if(onItemClickListener != null && popupWindow != null) {
