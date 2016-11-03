@@ -2,7 +2,7 @@
 
 # 效果图
 
- ![image](https://github.com/chenpengfei88/PromptView/blob/master/app/src/main/res/drawable/xgt.png)
+ ![image](https://github.com/chenpengfei88/PromptView/blob/master/app/src/main/res/drawable/xgt.jpg)
 
 # 如何使用
 
